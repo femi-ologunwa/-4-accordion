@@ -1,12 +1,12 @@
-#### Idea
+#### Accordion project in React
 
-[uidesigndaily](https://uidesigndaily.com/posts/sketch-accordion-website-day-1175)
+[view page](https://femi-ologunwa.github.io/-4-accordion/)
 
-![](./idea.png);
+![](./homescreen.gif)
 
-#### React Icons
+#### Implementation
 
-[react icons](https://react-icons.github.io/react-icons/)
+1. How to use react react-icons.
 
 ```
 npm install react-icons --save
@@ -19,9 +19,8 @@ const Component = () => {
 };
 ```
 
-### Others...
+2. fetching data from a file.
 
--  fetching data from a file
--  implement toggle functionality depending on a state value.
-   -implement the use of react icons
--  using spread operator to pass properties of an object (from data file) as props to a component
+3. implement toggle functionality depending on a state value.
+
+4. using spread operator to pass properties of an object (from data file) as props to a component
